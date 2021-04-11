@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+h1{font-size: 20px;}
+input {width: 800px;}
+table {border: 1px solid; margin-top: 10px; font-size: 12px; width: 900px;}
+table tr, td, th {border: 1px solid; text-align: left;}
+
+.clearbut {width:900px}
+button {width: 86px;}
